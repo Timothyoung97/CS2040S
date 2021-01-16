@@ -3,5 +3,5 @@
 Journey through CS2040S: Data Structure and Algorithms
 
 Topics:
-1)    Week 1: Introduction
+1)    Week 1: Introduction\n
       a) Problem Set 1
